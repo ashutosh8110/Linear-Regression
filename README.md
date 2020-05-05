@@ -1,1 +1,1 @@
-# KNN
+# Linear Regression
